@@ -50,6 +50,7 @@ flutter run
 * Dart
 * Material UI
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-Your Name
+Syed Mohsin Raza
+
