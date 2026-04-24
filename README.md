@@ -41,7 +41,7 @@ flutter run
 
 🎥 Demo Video
 
-(Add your video link here after uploading)
+(https://www.kapwing.com/videos/69eb0f8f3b0f43572cb48a8b)
 
 
 🛠 Technologies Used
