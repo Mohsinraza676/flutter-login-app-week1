@@ -40,8 +40,7 @@ flutter pub get
 flutter run
 
 🎥 Demo Video
-
-(https://www.kapwing.com/videos/69eb0f8f3b0f43572cb48a8b
+https://github.com/user-attachments/assets/29acb69b-7731-4056-b952-a62d0983b6c8
 
 Displayscreens 
 
